@@ -316,3 +316,9 @@ Adjust the noise scale and alpha in the Particle Filter according to the specifi
 Ensure that the video file and model file paths are correctly set in the script.
 
 The code assumes you are running in an environment with GUI support. If running in a headless environment, modify the script to save frames or output to files instead.
+
+Make sure that you place the path of the weight files and video input path according to the directory in which you placed this repository.
+
+# Happy coding! Feel free to contact in case of any query or doubt :)
+
+**Mail me at ahsanaslam9990@gmail.com**
